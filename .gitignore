@@ -1,0 +1,13 @@
+configstore/
+gatsby/
+github-copilot/
+iterm2
+karabiner/
+raycast
+rstudio/
+sanity/
+gh/
+fish/
+simple-update-notifier/
+yarn/
+.DS_Store
